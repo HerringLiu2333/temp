@@ -1,0 +1,3 @@
+name: translator-auto
+dependencies:
+  codeql/cpp-all: '*'
