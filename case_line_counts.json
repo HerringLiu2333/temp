@@ -1,0 +1,434 @@
+[
+  {
+    "case_name": "CVE-2024-57944",
+    "number_of_lines_before": 770,
+    "number_of_lines_after": 772,
+    "time_of_compile_db": ""
+  },
+  {
+    "case_name": "CVE-2024-57978",
+    "number_of_lines_before": 2390,
+    "number_of_lines_after": 2391,
+    "time_of_compile_db": ""
+  },
+  {
+    "case_name": "CVE-2024-57990",
+    "number_of_lines_before": 3505,
+    "number_of_lines_after": 3505,
+    "time_of_compile_db": ""
+  },
+  {
+    "case_name": "CVE-2024-57991",
+    "number_of_lines_before": 2767,
+    "number_of_lines_after": 2768,
+    "time_of_compile_db": ""
+  },
+  {
+    "case_name": "CVE-2024-57995",
+    "number_of_lines_before": 10011,
+    "number_of_lines_after": 10011,
+    "time_of_compile_db": ""
+  },
+  {
+    "case_name": "CVE-2024-57996",
+    "number_of_lines_before": 931,
+    "number_of_lines_after": 935,
+    "time_of_compile_db": ""
+  },
+  {
+    "case_name": "CVE-2024-57997",
+    "number_of_lines_before": 1692,
+    "number_of_lines_after": 1695,
+    "time_of_compile_db": ""
+  },
+  {
+    "case_name": "CVE-2024-58000",
+    "number_of_lines_before": 3944,
+    "number_of_lines_after": 3945,
+    "time_of_compile_db": ""
+  },
+  {
+    "case_name": "CVE-2024-58007",
+    "number_of_lines_before": 700,
+    "number_of_lines_after": 700,
+    "time_of_compile_db": ""
+  },
+  {
+    "case_name": "CVE-2024-58016",
+    "number_of_lines_before": 345,
+    "number_of_lines_after": 348,
+    "time_of_compile_db": ""
+  },
+  {
+    "case_name": "CVE-2024-58020",
+    "number_of_lines_before": 2349,
+    "number_of_lines_after": 2352,
+    "time_of_compile_db": ""
+  },
+  {
+    "case_name": "CVE-2024-58021",
+    "number_of_lines_before": 227,
+    "number_of_lines_after": 229,
+    "time_of_compile_db": ""
+  },
+  {
+    "case_name": "CVE-2024-58056",
+    "number_of_lines_before": 2794,
+    "number_of_lines_after": 2794,
+    "time_of_compile_db": ""
+  },
+  {
+    "case_name": "CVE-2024-58057",
+    "number_of_lines_before": 282,
+    "number_of_lines_after": 287,
+    "time_of_compile_db": ""
+  },
+  {
+    "case_name": "CVE-2024-58058",
+    "number_of_lines_before": 3046,
+    "number_of_lines_after": 3050,
+    "time_of_compile_db": ""
+  },
+  {
+    "case_name": "CVE-2024-58059",
+    "number_of_lines_before": 407,
+    "number_of_lines_after": 410,
+    "time_of_compile_db": ""
+  },
+  {
+    "case_name": "CVE-2024-58067",
+    "number_of_lines_before": 112,
+    "number_of_lines_after": 112,
+    "time_of_compile_db": ""
+  },
+  {
+    "case_name": "CVE-2024-58070",
+    "number_of_lines_before": 938,
+    "number_of_lines_after": 942,
+    "time_of_compile_db": ""
+  },
+  {
+    "case_name": "CVE-2024-58081",
+    "number_of_lines_before": 115,
+    "number_of_lines_after": 115,
+    "time_of_compile_db": ""
+  },
+  {
+    "case_name": "CVE-2024-58082",
+    "number_of_lines_before": 1823,
+    "number_of_lines_after": 1823,
+    "time_of_compile_db": ""
+  },
+  {
+    "case_name": "CVE-2024-58086",
+    "number_of_lines_before": 454,
+    "number_of_lines_after": 459,
+    "time_of_compile_db": ""
+  },
+  {
+    "case_name": "CVE-2024-58093",
+    "number_of_lines_before": 1748,
+    "number_of_lines_after": 1749,
+    "time_of_compile_db": ""
+  },
+  {
+    "case_name": "CVE-2024-58094",
+    "number_of_lines_before": 414,
+    "number_of_lines_after": 414,
+    "time_of_compile_db": ""
+  },
+  {
+    "case_name": "CVE-2024-58095",
+    "number_of_lines_before": 388,
+    "number_of_lines_after": 398,
+    "time_of_compile_db": ""
+  },
+  {
+    "case_name": "CVE-2025-38245",
+    "number_of_lines_before": 419,
+    "number_of_lines_after": 418,
+    "time_of_compile_db": ""
+  },
+  {
+    "case_name": "CVE-2025-38249",
+    "number_of_lines_before": 1272,
+    "number_of_lines_after": 1274,
+    "time_of_compile_db": ""
+  },
+  {
+    "case_name": "CVE-2025-38251",
+    "number_of_lines_before": 929,
+    "number_of_lines_after": 928,
+    "time_of_compile_db": ""
+  },
+  {
+    "case_name": "CVE-2025-38260",
+    "number_of_lines_before": 4925,
+    "number_of_lines_after": 4924,
+    "time_of_compile_db": ""
+  },
+  {
+    "case_name": "CVE-2025-38265",
+    "number_of_lines_before": 828,
+    "number_of_lines_after": 829,
+    "time_of_compile_db": ""
+  },
+  {
+    "case_name": "CVE-2025-38271",
+    "number_of_lines_before": 7089,
+    "number_of_lines_after": 7089,
+    "time_of_compile_db": ""
+  },
+  {
+    "case_name": "CVE-2025-38281",
+    "number_of_lines_before": 1552,
+    "number_of_lines_after": 1555,
+    "time_of_compile_db": ""
+  },
+  {
+    "case_name": "CVE-2025-38283",
+    "number_of_lines_before": 1694,
+    "number_of_lines_after": 1702,
+    "time_of_compile_db": ""
+  },
+  {
+    "case_name": "CVE-2025-38289",
+    "number_of_lines_before": 7218,
+    "number_of_lines_after": 7220,
+    "time_of_compile_db": ""
+  },
+  {
+    "case_name": "CVE-2025-38292",
+    "number_of_lines_before": 4536,
+    "number_of_lines_after": 4538,
+    "time_of_compile_db": ""
+  },
+  {
+    "case_name": "CVE-2025-38294",
+    "number_of_lines_before": 11951,
+    "number_of_lines_after": 11951,
+    "time_of_compile_db": ""
+  },
+  {
+    "case_name": "CVE-2025-38297",
+    "number_of_lines_before": 920,
+    "number_of_lines_after": 924,
+    "time_of_compile_db": ""
+  },
+  {
+    "case_name": "CVE-2025-38298",
+    "number_of_lines_before": 864,
+    "number_of_lines_after": 865,
+    "time_of_compile_db": ""
+  },
+  {
+    "case_name": "CVE-2025-38301",
+    "number_of_lines_before": 235,
+    "number_of_lines_after": 236,
+    "time_of_compile_db": ""
+  },
+  {
+    "case_name": "CVE-2025-38304",
+    "number_of_lines_before": 383,
+    "number_of_lines_after": 385,
+    "time_of_compile_db": ""
+  },
+  {
+    "case_name": "CVE-2025-38307",
+    "number_of_lines_before": 438,
+    "number_of_lines_after": 442,
+    "time_of_compile_db": ""
+  },
+  {
+    "case_name": "CVE-2025-38308",
+    "number_of_lines_before": 1771,
+    "number_of_lines_after": 1768,
+    "time_of_compile_db": ""
+  },
+  {
+    "case_name": "CVE-2025-38312",
+    "number_of_lines_before": 368,
+    "number_of_lines_after": 368,
+    "time_of_compile_db": ""
+  },
+  {
+    "case_name": "CVE-2025-38313",
+    "number_of_lines_before": 1294,
+    "number_of_lines_after": 1296,
+    "time_of_compile_db": ""
+  },
+  {
+    "case_name": "CVE-2025-38314",
+    "number_of_lines_before": 1290,
+    "number_of_lines_after": 1301,
+    "time_of_compile_db": ""
+  },
+  {
+    "case_name": "CVE-2025-38318",
+    "number_of_lines_before": 783,
+    "number_of_lines_after": 784,
+    "time_of_compile_db": ""
+  },
+  {
+    "case_name": "CVE-2025-38323",
+    "number_of_lines_before": 2240,
+    "number_of_lines_after": 2247,
+    "time_of_compile_db": ""
+  },
+  {
+    "case_name": "CVE-2025-38329",
+    "number_of_lines_before": 477,
+    "number_of_lines_after": 478,
+    "time_of_compile_db": ""
+  },
+  {
+    "case_name": "CVE-2025-38337",
+    "number_of_lines_before": 2745,
+    "number_of_lines_after": 2746,
+    "time_of_compile_db": ""
+  },
+  {
+    "case_name": "CVE-2025-38340",
+    "number_of_lines_before": 202,
+    "number_of_lines_after": 203,
+    "time_of_compile_db": ""
+  },
+  {
+    "case_name": "CVE-2025-38341",
+    "number_of_lines_before": 1263,
+    "number_of_lines_after": 1260,
+    "time_of_compile_db": ""
+  },
+  {
+    "case_name": "CVE-2025-38342",
+    "number_of_lines_before": 1128,
+    "number_of_lines_after": 1128,
+    "time_of_compile_db": ""
+  },
+  {
+    "case_name": "CVE-2025-38346",
+    "number_of_lines_before": 8952,
+    "number_of_lines_after": 8956,
+    "time_of_compile_db": ""
+  },
+  {
+    "case_name": "CVE-2025-38349",
+    "number_of_lines_before": 2499,
+    "number_of_lines_after": 2497,
+    "time_of_compile_db": ""
+  },
+  {
+    "case_name": "CVE-2025-38350",
+    "number_of_lines_before": 2526,
+    "number_of_lines_after": 2517,
+    "time_of_compile_db": ""
+  },
+  {
+    "case_name": "CVE-2025-38485",
+    "number_of_lines_before": 1316,
+    "number_of_lines_after": 1318,
+    "time_of_compile_db": ""
+  },
+  {
+    "case_name": "CVE-2025-38486",
+    "number_of_lines_before": 1818,
+    "number_of_lines_after": 1792,
+    "time_of_compile_db": ""
+  },
+  {
+    "case_name": "CVE-2025-38487",
+    "number_of_lines_before": 388,
+    "number_of_lines_after": 399,
+    "time_of_compile_db": ""
+  },
+  {
+    "case_name": "CVE-2025-38488",
+    "number_of_lines_before": 5851,
+    "number_of_lines_after": 5856,
+    "time_of_compile_db": ""
+  },
+  {
+    "case_name": "CVE-2025-40014",
+    "number_of_lines_before": 821,
+    "number_of_lines_after": 821,
+    "time_of_compile_db": ""
+  },
+  {
+    "case_name": "CVE-2025-40150",
+    "number_of_lines_before": 2348,
+    "number_of_lines_after": 2362,
+    "time_of_compile_db": ""
+  },
+  {
+    "case_name": "CVE-2026-23446",
+    "number_of_lines_before": 1493,
+    "number_of_lines_after": 1493,
+    "time_of_compile_db": ""
+  },
+  {
+    "case_name": "CVE-2026-23455",
+    "number_of_lines_before": 945,
+    "number_of_lines_after": 947,
+    "time_of_compile_db": ""
+  },
+  {
+    "case_name": "CVE-2026-23462",
+    "number_of_lines_before": 1479,
+    "number_of_lines_after": 1491,
+    "time_of_compile_db": ""
+  },
+  {
+    "case_name": "CVE-2026-23465",
+    "number_of_lines_before": 8078,
+    "number_of_lines_after": 8084,
+    "time_of_compile_db": ""
+  },
+  {
+    "case_name": "CVE-2026-31406",
+    "number_of_lines_before": 302,
+    "number_of_lines_after": 302,
+    "time_of_compile_db": ""
+  },
+  {
+    "case_name": "CVE-2026-31428",
+    "number_of_lines_before": 1217,
+    "number_of_lines_after": 1213,
+    "time_of_compile_db": ""
+  },
+  {
+    "case_name": "CVE-2026-31499",
+    "number_of_lines_before": 7804,
+    "number_of_lines_after": 7802,
+    "time_of_compile_db": ""
+  },
+  {
+    "case_name": "CVE-2026-31516",
+    "number_of_lines_before": 4710,
+    "number_of_lines_after": 4712,
+    "time_of_compile_db": ""
+  },
+  {
+    "case_name": "CVE-2026-31549",
+    "number_of_lines_before": 336,
+    "number_of_lines_after": 339,
+    "time_of_compile_db": ""
+  },
+  {
+    "case_name": "CVE-2026-31562",
+    "number_of_lines_before": 1319,
+    "number_of_lines_after": 1320,
+    "time_of_compile_db": ""
+  },
+  {
+    "case_name": "CVE-2026-31566",
+    "number_of_lines_before": 774,
+    "number_of_lines_after": 774,
+    "time_of_compile_db": ""
+  },
+  {
+    "case_name": "CVE-2026-31567",
+    "number_of_lines_before": 1094,
+    "number_of_lines_after": 1094,
+    "time_of_compile_db": ""
+  }
+]
